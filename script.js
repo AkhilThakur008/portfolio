@@ -33,7 +33,7 @@ function toggleMenu() {
         // Initialize particles on load
         window.addEventListener('load', createParticles);
         // Typing effect
-        const text = "Full Stack Developer";
+        const text = "Web Developer";
         const typingElement = document.getElementById('typingText');
         let index = 0;
         function typeText() {
